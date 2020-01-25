@@ -1,21 +1,9 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/gXqzvLa.jpg" group-title="",ANN
-http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 tvg-id="Orient TV ARB" tvg-name="Orient TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qbgwnhB.png" group-title="",Orient TV
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/gmswf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="",RTV Sat
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="",RTV Sat
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="",Sama TV
-http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="",Spacetoon
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w693439211_b346000_slAR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrNVVOu.png" group-title="",Suboro TV
-https://streaming.viewsat.eu/viewsatstream12/viewsatstream12.smil/chunklist_w1785562590_b900000.m3u8
-#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ynwRIN4.png" group-title="Movies",Syria Drama
-http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="",Syria TV
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/aMOifn2.png" group-title="",Ugarit TV
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
+#EXTINF:-1 tvg-id="alita battle angel" tvg-name="alita battle angel" tvg-logo="https://co.cima4up.co/wp-content/uploads/2019/07/Alita-Battle-Angel-cima4up.jpg" group-title="2019",alita battle angel
+https://fs76.gounlimited.to/tea5vdlre72qzxfffm2ibm3e7nfr3nmmh4h3l2zcot3irsv33c5cumghizuq/alita.battle.angel.2019.1080p.BluRay.Cima4Up.CoM.mp4
+
+#EXTINF:-1 tvg-id="Rocket Hunter" tvg-name="Rocket Hunter" tvg-logo="https://eg.movizland.online/wp-content/uploads/Rocket-Hunter-2020-245x360.png" group-title="2020",Rocket Hunter
+https://g.moshahda.online/l7y2rtzfdvmjvkrxw42sabaji2e4snc4kfomu3opafb4rtf3g6rr6zm4igya/Rocket.Hunter.2020.1080p.WEB-DL.Movizland.Online.mp4
+
+#EXTINF:-1 tvg-id="فيلم 1917 2019" tvg-name="فيلم 1917 2019" tvg-logo="https://eg.movizland.online/wp-content/uploads/1917.jpg" group-title="2019",فيلم 1917 2019
+https://g.moshahda.online/l7y2xwjhdvmjvkrxw42sadknlgv2je7axpthibdyvuqajbrwvjhopc4jewiq/1917.2019.DVDSCR.Movizland.Online.mp4
