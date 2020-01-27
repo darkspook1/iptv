@@ -1,4 +1,15 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
+
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN Sports 1 ARB" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",beIN Sports HD 1
+https://2m1v.c.time4vps.cloud/b1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 2 ARB" tvg-name="beIN Sports 2 ARB" tvg-logo="https://i.imgur.com/p3E3XeQ.png" group-title="Sport",beIN Sports HD 2
+https://2m1v.c.time4vps.cloud/b2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 3 ARB" tvg-name="beIN Sports 3 ARB" tvg-logo="https://i.imgur.com/7Eht07u.png" group-title="Sport",beIN Sports HD 3
+https://2m1v.c.time4vps.cloud/b3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 4 ARB" tvg-name="beIN Sports 4 ARB" tvg-logo="https://i.imgur.com/7Eht07u.png" group-title="Sport",beIN Sports HD 4
+https://2m1v.c.time4vps.cloud/b4/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Qd3F58.png" group-title="Sport",Al Kass Five
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
@@ -18,14 +29,6 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
 #EXTINF:-1 tvg-id="beIN Sports 4 ARB" tvg-name="beIN Sports 4 ARB" tvg-logo="https://i.imgur.com/Tidh5Qw.png" group-title="Sport",beIN Sports 4
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN Sports 1 ARB" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",beIN Sports HD 1
-https://2m1v.c.time4vps.cloud/b1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 2 ARB" tvg-name="beIN Sports 2 ARB" tvg-logo="https://i.imgur.com/p3E3XeQ.png" group-title="Sport",beIN Sports HD 2
-https://2m1v.c.time4vps.cloud/b2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 3 ARB" tvg-name="beIN Sports 3 ARB" tvg-logo="https://i.imgur.com/7Eht07u.png" group-title="Sport",beIN Sports HD 3
-https://2m1v.c.time4vps.cloud/b3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 4 ARB" tvg-name="beIN Sports 4 ARB" tvg-logo="https://i.imgur.com/7Eht07u.png" group-title="Sport",beIN Sports HD 4
-https://2m1v.c.time4vps.cloud/b4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beIN Sports ARB" tvg-name="beIN Sports ARB" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",beIN Sports News
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
