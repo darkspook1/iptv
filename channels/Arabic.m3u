@@ -3,6 +3,7 @@
 http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="General",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+
 #EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV
 http://adtv.ercdn.net/adaloula/adaloula.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV
@@ -11,6 +12,7 @@ http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
 http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/3781376_logo_africa_tv_2.png" group-title="General",Africa TV2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vn9jvdV.png" group-title="General",Africa TV2
@@ -65,8 +67,10 @@ https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="General",Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="General",Al Masirah
 https://svs.itworkscdn.net/almasiralive/almasira.smil/chunklist_b925000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="General",Al Masirah Mubacher
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="General",Al Mayadeen
@@ -85,10 +89,12 @@ http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="General",Al Quran Al Kareem (Mecca)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+
 #EXTINF:-1 tvg-id="Al Rayan ARB" tvg-name="Al Rayan ARB" tvg-logo="https://i.imgur.com/uQMoKXn.png" group-title="General",Al Rayyan
 https://alrayyan1live.azureedge.net/alrayyan1/alrayyan1.smil/chunklist_b1428000.m3u8
 #EXTINF:-1 tvg-id="Al Rayyan 2 ARB" tvg-name="Al Rayyan 2 ARB" tvg-logo="https://i.imgur.com/uQMoKXn.png" group-title="General",Al Rayyan 2
 https://alrayyan2live.azureedge.net/alrayyan2/alrayyan2.smil/chunklist_b1428000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJ9fK46.png" group-title="General",Al Taghier TV HD
 http://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
 #EXTINF:-1 group-title="General",Al Tanasuh TV
@@ -97,22 +103,26 @@ http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
 http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WI5hSK1.png" group-title="General",Al Tanasuh TV (LY)
 http://m.live.net.sa:1935/m/tanasuhtv/chunklist_w2048734625.m3u8?v=2545014476
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8RA09mp.jpg" group-title="General",Al Thaneya
 http://149.100.10.162:8001/play/s21
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1bXAHq.png" group-title="General",Al Waad TV
 https://bcliveunivsecure-lh.akamaihd.net/i/AlWaad_1@772935/index_1100_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="Al Wousta from Al Dhaid ARB" tvg-name="Al Wousta from Al Dhaid ARB" tvg-logo="https://i.imgur.com/FpKvYT1.png" group-title="General",Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/chunklist_w1270221403_b764000_t64VVE=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="General",Al-Hiwar
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8?v=1771904733&__mn_sid=13380223219124813958
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="General",Al-Hiwar
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H7D7dmK.png" group-title="General",Al-Istiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RVQtIEW.png" group-title="General",Al-Nahar One
 http://149.100.10.162:8001/play/s24
 #EXTINF:-1 group-title="General",Al-Qurain TV
 https://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" group-title="General",Al-Sirat
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P733fzV.jpg" group-title="General",Alhayah TV
@@ -159,12 +169,16 @@ http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
 http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network Arabic ARB" tvg-name="Cartoon Network Arabic ARB" tvg-logo="https://i.imgur.com/mT3mCCK.png" group-title="General",Cartoon Network كرتون
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+
 #EXTINF:-1 tvg-id="CBC ARB" tvg-name="CBC ARB" tvg-logo="https://i.imgur.com/VZmLIY2.png" group-title="General",CBC
 http://149.100.10.162:8001/play/s27
+
 #EXTINF:-1 tvg-id="CBC ARB" tvg-name="CBC ARB" tvg-logo="https://i.imgur.com/VZmLIY2.png" group-title="General",CBC
 http://95.170.215.109/hls/CBC-Backup-M.m3u8
+
 #EXTINF:-1 tvg-id="CBC Sofra ARB" tvg-name="CBC Sofra ARB" tvg-logo="https://i.imgur.com/8voC3Ns.png" group-title="General",CBC Sofra
 http://149.100.10.162:8001/play/s29
+
 #EXTINF:-1 tvg-id="CBC Sofra ARB" tvg-name="CBC Sofra ARB" tvg-logo="https://i.imgur.com/8voC3Ns.png" group-title="General",CBC Sofra
 http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeG9K1y.png" group-title="General",Ch4Teen
@@ -189,6 +203,7 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 https://mn-nl.mncdn.com/elsharq_me/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsF2nUa.jpg" group-title="General",Elsharq TV
 http://149.202.79.190:8081/elsharqtv/live_1024p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="General",Emarat TV
 http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
 #EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="General",Emarat TV
@@ -197,6 +212,7 @@ http://adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8
 http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
 #EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="General",Emarat TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+
 #EXTINF:-1 group-title="General",Funoon TV
 http://livecdnh3.tvanywhere.ae/hls/funoon/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Tv_funoon_tv.png" group-title="General",Funoon TV
@@ -213,14 +229,18 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.hawacom.tv/android-chrome-256x256.png" group-title="General",Hawacom
 http://livecdnh3.tvanywhere.ae/hls/hawacom/04.m3u8
+
 #EXTINF:-1 tvg-id="Jordan ARB" tvg-name="Jordan ARB" tvg-logo="https://i.imgur.com/siAiiws.jpg" group-title="General",Jordan TV
 http://149.100.10.162:8002/play/s224
+
 #EXTINF:-1 tvg-id="Jordan ARB" tvg-name="Jordan ARB" tvg-logo="https://i.imgur.com/siAiiws.jpg" group-title="General",Jordan TV
 http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
 #EXTINF:-1 tvg-id="Jordan ARB" tvg-name="Jordan ARB" tvg-logo="https://i.imgur.com/siAiiws.jpg" group-title="General",Jordan TV
 http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ANSbicE.png" group-title="General",Kolalnas
 http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="KTV 1 ARB" tvg-name="KTV 1 ARB" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="General",KTV 1
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
 #EXTINF:-1 tvg-id="KTV 1 ARB" tvg-name="KTV 1 ARB" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/9pmM8BRc.png" group-title="General",KTV 1
@@ -259,6 +279,8 @@ https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 https://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GBDfc8p.jpg" group-title="General",Lana TV
 https://svs.itworkscdn.net/lanatvlive/lana/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GBDfc8p.jpg" group-title="General",Lana TV Plus
+https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
 #EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="General",LBC International
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/03.m3u8
 #EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="General",LBC International
