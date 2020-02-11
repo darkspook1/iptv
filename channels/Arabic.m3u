@@ -3,7 +3,7 @@
 http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="General",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 tvg-id="al jamahiriya" tvg-name="al jamahiriya" tvg-logo="https://i.imgur.com/79zmVW1.png" group-title="General",al jamahiriya
+#EXTINF:-1 tvg-id="al jamahiriya" tvg-name="al jamahiriya" tvg-logo="https://i.imgur.com/79zmVW1.png" group-title="News",al jamahiriya
 http://streaming.i-sat.tv:1935/live/akh/chunklist_w385841831.m3u8
 #EXTINF:-1 tvg-id="ABNsat" tvg-name="ABN" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="General",ABNsat
 http://rtmp1.abnsat.com/hls/arabic.m3u8
