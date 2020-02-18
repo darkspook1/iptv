@@ -643,6 +643,9 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-logo="https://i.imgur.com/UswKCLv.jpg" group-title="MBC",MBC VARIETY HD
+http://95.170.215.118/hls/m3u8/MBC-P-VARity-FF-CC.m3u8
+
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max HD
@@ -669,6 +672,8 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
 http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8
 #EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="MBC",MBC 4
 http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
+#EXTINF:-1 tvg-id=" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="",MBC VARIETY HD
+http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="MBC",MBC Masr
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="MBC",MBC Masr
