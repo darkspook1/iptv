@@ -190,34 +190,18 @@ http://livecdnh3.tvanywhere.ae/hls/hawacom/04.m3u8
 http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="Jordan ARB" tvg-name="Jordan ARB" tvg-logo="https://i.imgur.com/siAiiws.jpg" group-title="General",Jordan TV
 http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
-#EXTINF:-1 tvg-id="KTV 1 ARB" tvg-name="KTV 1 ARB" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="General",KTV 1
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
-#EXTINF:-1 tvg-id="KTV 1 ARB" tvg-name="KTV 1 ARB" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/9pmM8BRc.png" group-title="General",KTV 1
-https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV 1 ARB" tvg-name="KTV 1 ARB" tvg-logo="https://user-images.githubusercontent.com/26902309/68779592-2b6fc500-0635-11ea-8b1a-0755f4599ddd.png" group-title="General",KTV 1
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="KTV 2 ARB" tvg-name="KTV 2 ARB" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000021130000.png" group-title="General",KTV 2
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="KTV 2 ARB" tvg-name="KTV 2 ARB" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" group-title="General",KTV 2
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
-#EXTINF:-1 group-title="General",KTV Al Majlis
-https://svs.itworkscdn.net/ktvalmajlislive/smil:kalmajlis.smil/playlist.m3u8
-#EXTINF:-1 group-title="General",KTV Al Majlis
-https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/kw/almajlis-95x41.gif" group-title="General",KTV Al Majlis
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv7
-#EXTINF:-1 group-title="General",KTV Arabe
-https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_360p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SfkTPK2.jpg" group-title="General",KTV Al Majlis
+https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KTA.jpg" group-title="General",KTV Arabe
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv6
-#EXTINF:-1 tvg-name="KTV" group-title="General",KTV Arabe
-http://www.elahmad.com/tv/m3u8/ktv.m3u8
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif" group-title="General",KTV Ethraa
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv5
-#EXTINF:-1 group-title="General",KTV Ethraa
-https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
-#EXTINF:-1 group-title="General",KTV Plus
-https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="General",KTV Plus
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv8
+https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://kw.heytv.org/wp-content/uploads/2019/03/ktv_arabe.jpg" group-title="General",KTV Ethraa
+https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GBDfc8p.jpg" group-title="General",Lana TV Plus
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
 #EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="General",LBC International
