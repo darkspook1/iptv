@@ -3,7 +3,7 @@
 http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="General",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 tvg-id="al jamahiriya" tvg-name="al jamahiriya" tvg-logo="https://i.imgur.com/79zmVW1.png" group-title="News",al jamahiriya
+#EXTINF:-1 tvg-id="al jamahiriya" tvg-name="al jamahiriya" tvg-logo="https://i.imgur.com/79zmVW1.png" group-title="General",al jamahiriya
 http://streaming.i-sat.tv:1935/live/akh/chunklist_w385841831.m3u8
 #EXTINF:-1 tvg-id="ABNsat" tvg-name="ABN" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="General",ABNsat
 http://rtmp1.abnsat.com/hls/arabic.m3u8
@@ -30,7 +30,7 @@ http://media.smc-host.com:1935/redirect/alfadytv.tv/alfadytv.smil?type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rWj1Ct3.png" group-title="General",Al Fajer TV International
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.alghadeer.tv/static/images/logo.png" group-title="General",Al Ghadeer
-#http://178.162.140.90:1935/live/alghadeer/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="General",Al Hayat
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" group-title="General",Al Jadeed
@@ -140,7 +140,7 @@ http://185.105.4.106:1935/live/Bahrain%20TV/chunklist_w721264201.m3u8
 #EXTINF:-1 tvg-logo="http://mahgoubsons.com/wp/wp-content/uploads/2017/10/BNTV_logo.png" group-title="General",Blue Nile
 http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="General",Canadian Arab TV
-#http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="Cartoon Network Arabic ARB" tvg-name="Cartoon Network Arabic ARB" tvg-logo="https://i.imgur.com/mT3mCCK.png" group-title="General",Cartoon Network كرتون
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
 #EXTINF:-1 tvg-id="CBC ARB" tvg-name="CBC ARB" tvg-logo="https://i.imgur.com/VZmLIY2.png" group-title="General",CBC
@@ -149,7 +149,6 @@ http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/03.m3u8
 http://livecdnh2.tvanywhere.ae/hls/cbc_sof/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeG9K1y.png" group-title="General",Ch4Teen
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/index_150_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-id="Citruss TV ARB" tvg-name="Citruss TV ARB" tvg-logo="https://i.imgur.com/6lTEvrU.jpg" group-title="General",Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 #EXTINF:-1 tvg-id="CNBC Arabiya ARB" tvg-name="CNBC Arabiya ARB" tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="General",CNBC Arabiya
@@ -159,7 +158,7 @@ http://38.96.175.40:1935/liveTrans//channel5_190k/chunklist_w609791274.m3u8
 #EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="General",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QKXDeMQ.png" group-title="General",Dubai TV
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV ARB" tvg-name="Etisalat Dubai Zaman TV ARB" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="General",Dubai Zaman
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV ARB" tvg-name="Etisalat Dubai Zaman TV ARB" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="General",Dubai Zaman
@@ -192,8 +191,6 @@ http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
 http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
 #EXTINF:-1 tvg-id="KTV 1 ARB" tvg-name="KTV 1 ARB" tvg-logo="https://user-images.githubusercontent.com/26902309/68779592-2b6fc500-0635-11ea-8b1a-0755f4599ddd.png" group-title="General",KTV 1
 https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_360p/chunks.m3u8
-#EXTINF:-1 tvg-id="KTV 2 ARB" tvg-name="KTV 2 ARB" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000021130000.png" group-title="General",KTV 2
-https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="KTV 2 ARB" tvg-name="KTV 2 ARB" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" group-title="General",KTV 2
 https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SfkTPK2.jpg" group-title="General",KTV Al Majlis
@@ -204,13 +201,13 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/c
 https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GBDfc8p.jpg" group-title="General",Lana TV Plus
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
-#EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="General",LBC International
+#EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-logo="https://i.imgur.com/4Y09rze.jpg" group-title="General",LBC International
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/03.m3u8
-#EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="General",LBC International
+#EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-logo="https://i.imgur.com/4Y09rze.jpg" group-title="General",LBC International
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="General",LBC International
+#EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-logo="https://i.imgur.com/4Y09rze.jpg" group-title="General",LBC International
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="LDC ARB" tvg-name="LDC ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/LDC_logo_new.png/93px-LDC_logo_new.png" group-title="General",LDC
+#EXTINF:-1 tvg-id="LDC ARB" tvg-name="LDC ARB" tvg-logo="https://i.imgur.com/8aLRo9X.png" group-title="General",LDC
 http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N9dO8AE.png" group-title="General",Libya 218
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
@@ -219,7 +216,7 @@ http://1599780955@starmena.ercdn.net/libyaschannel/libyaschannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="General",M24 TV
 https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1DTp5hd.png" group-title="General",Maan news TV
-#http://htvmada.mada.ps:8888/maannews/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PeIYCXs.jpg" group-title="General",Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExGzvN5.png" group-title="General",MEA TV
@@ -230,7 +227,6 @@ https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1264000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="General",Mekameleen TV
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="General",MTA 3
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="General",MTA 3
@@ -266,7 +262,7 @@ http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_
 #EXTINF:-1 tvg-id="Noor Dubai ARB" tvg-name="Noor Dubai ARB" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="General",Noor Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/amxhyoP.png" group-title="General",Noursat Jordan
-#https://svs.itworkscdn.net/nour4satlive/livestream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Oman TV ARB" tvg-name="Oman TV ARB" tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="General",Oman TV
 http://38.96.148.35:1935/live/omantv01/playlist.m3u8
 #EXTINF:-1 tvg-id="Oman TV ARB" tvg-name="Oman TV ARB" tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="General",Oman TV
@@ -323,8 +319,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PrNVVOu.png" group-title="General",Suboro TV
 https://streaming.viewsat.eu/viewsatstream12/viewsatstream12.smil/chunklist_w1785562590_b900000.m3u8
-#EXTINF:-1 group-title="General",
-
+#EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria" tvg-logo="http://www.ortas.online/images/Ortas/ortas_header.png" group-title="General",Syria Channel
+https://prod-fastly-eu-central-1.video.periscope.tv/Transcoding/v1/hls/OkC9UoIFBlCFuaSIz3z8TiqfW6MpSdAtEpPPpRPZqjCGKdol4bLneuHPZhss-R6hMp5QO2vuXsdUvZX8QqyRaw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_16881690857058128642.m3u8?
 #EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria Satellite Channel ARB" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="General",Syria Channel
 http://95.170.215.109/hls/m3u8/SYRIA-Backup.m3u8
 #EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria Satellite Channel ARB" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="General",Syria Channel
@@ -363,6 +359,8 @@ http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" group-title="General",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Oman TV ARB" tvg-name="Oman TV ARB" tvg-logo="https://i.imgur.com/bylHubz.jpg" group-title="General",Oman TV ARB
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
@@ -418,11 +416,11 @@ https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KSA Sports" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Sport",KSA Sports HQ
 https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport ARB" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/09/ktv3.jpg" group-title="Sport",KTV Sport
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="KTV Sport Plus ARB" tvg-name="KTV Sport Plus ARB" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/09/ktv3.jpg" group-title="Sport",KTV Sport Plus
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sport",Oman Sport
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=oman_sport
-#EXTINF:-1 tvg-id="Oman TV ARB" tvg-name="Oman TV ARB" tvg-logo="https://i.imgur.com/bylHubz.jpg" group-title="General",Oman TV ARB
-http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
 #EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sports
@@ -550,7 +548,7 @@ http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/niDVfYR.png" group-title="Movies",Rotana Drama
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" group-title="Kids",KTV Kids
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv4
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_360p/chunks.m3u8
 #EXTINF:-1 group-title="Kids",KTV Kids
 https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Space Toon Arabic ARB" tvg-name="Space Toon Arabic ARB" tvg-logo="https://i.imgur.com/L42Ouau.png" group-title="Kids",Spacetoon
@@ -627,9 +625,6 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-logo="https://i.imgur.com/UswKCLv.jpg" group-title="MBC",MBC VARIETY HD
-http://95.170.215.118/hls/m3u8/MBC-P-VARity-FF-CC.m3u8
-
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max HD
@@ -656,8 +651,6 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
 http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8
 #EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="MBC",MBC 4
 http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="",MBC VARIETY HD
-http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="MBC",MBC Masr
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="MBC",MBC Masr
@@ -688,3 +681,9 @@ http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/04.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Documentary" tvg-name="Al Jazeera Documentary" tvg-logo="https://i.imgur.com/ESlr13q.jpg" group-title="Education",Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/appleman460.m3u8
+#EXTINF:-1 radio="true" tvg-id="Sham FM" tvg-name="Sham FM" tvg-logo="http://sham.fm/assets/v3/images/logo.png" group-title="Radio",Sham FM
+http://5.39.218.151:8400/stream
+#EXTINF:-1 radio="true" tvg-name="Al Rayan FM" tvg-logo="https://i.imgur.com/3X9tTs5.jpg" group-title="Radio",Al Rayan FM
+http://www.rayanfm.com:9998/;
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/AvjY4D6.jpg" group-title="Radio",Sada Aljabl fm
+http://188.165.53.101:8024/;
