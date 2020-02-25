@@ -549,8 +549,6 @@ http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" group-title="Kids",KTV Kids
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_360p/chunks.m3u8
-#EXTINF:-1 group-title="Kids",KTV Kids
-https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Space Toon Arabic ARB" tvg-name="Space Toon Arabic ARB" tvg-logo="https://i.imgur.com/L42Ouau.png" group-title="Kids",Spacetoon
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
 #EXTINF:-1 tvg-id="Space Toon Arabic ARB" tvg-name="Space Toon Arabic ARB" tvg-logo="https://i.imgur.com/L42Ouau.png" group-title="Kids",Spacetoon
