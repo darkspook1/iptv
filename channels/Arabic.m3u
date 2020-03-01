@@ -480,10 +480,8 @@ http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="News",El Ekhbaria Syria
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="News",Halab Today TV
-https://live.vimeocdn.com/1583072742-0x88e88ae29e76c12ecd075e76f3529e67361a7ab3/48d56d5a-3f4a-4309-a2bf-bd93a7279d4b/chunklist_b6256000.m3u8?max_segments=10
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfnY0sD.png" group-title="News",Halab Today TV
+https://live.vimeocdn.com/1583079075-0x9a30a2929fc2ef2fdf6637e452071051115c4bf7/48d56d5a-3f4a-4309-a2bf-bd93a7279d4b/chunklist_b728000.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/ZcCWCbm.jpg" group-title="News",Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1 tvg-id="CBC Drama ARB" tvg-name="CBC Drama ARB" tvg-logo="https://i.imgur.com/VW5Qk23.png" group-title="Movies",CBC Drama
