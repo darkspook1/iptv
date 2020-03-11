@@ -1,14 +1,23 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
-#EXTINF:-1 tvg-id="beIN Sports News ARB" tvg-name="beIN Sports News ARB" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",beIN Sports HD News
-https://2208.janjua.pw:8088/adfree/bnewsssss/playlist.m3u8?id=93477&wowzasessionid=776795922&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
-
-https://2209.janjua.pw:8088/adfree/b1111141/playlist.m3u8?id=96533&wowzasessionid=3031360391&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
 
 #EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN Sports 1 ARB" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",beIN Sports HD 1
-https://2d04.janjua.pw:8088/adfree/b1111141/playlist.m3u8?id=96533&wowzasessionid=68558913&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN Sports 1 ARB" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",beIN Sports HD 1#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN Sports 1 ARB" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",beIN Sports HD 1
+https://2201.janjua.pw:8088/adfree/nb11111111111/playlist.m3u8?id=97535&wowzasessionid=3681521933&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN Sports 1 ARB" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",beIN Sports HD 1
+https://2210.janjua.pw:8088/adfree/nb11111111111/playlist.m3u8?id=97535&wowzasessionid=7833723185&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN Sports 1 ARB" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",beIN Sports HD 1
+https://2208.janjua.pw:8088/adfree/nb11111111111/playlist.m3u8?id=97535&wowzasessionid=3258810939&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN Sports 1 ARB" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",beIN Sports HD 1
+https://2201.janjua.pw:8088/adfree/nb11111111111/playlist.m3u8?id=97535&wowzasessionid=3381927678&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
 
 #EXTINF:-1 tvg-id="beIN Sports 2 ARB" tvg-name="beIN Sports 2 ARB" tvg-logo="https://i.imgur.com/p3E3XeQ.png" group-title="Sport",beIN Sports HD 2
-https://2201.janjua.pw:8088/adfree/bbnh222222/playlist.m3u8?id=96465&wowzasessionid=3461612898&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
+https://2209.janjua.pw:8088/adfree/nbnn22222222222222/playlist.m3u8?id=97619&wowzasessionid=3897740795&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
+
+#EXTINF:-1 tvg-id="beIN Sports 2 ARB" tvg-name="beIN Sports 2 ARB" tvg-logo="https://i.imgur.com/p3E3XeQ.png" group-title="Sport",beIN Sports HD 2
+https://2210.janjua.pw:8088/adfree/nbnn22222222222222/playlist.m3u8?id=97619&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
+
+#EXTINF:-1 tvg-id="beIN Sports 2 ARB" tvg-name="beIN Sports 2 ARB" tvg-logo="https://i.imgur.com/p3E3XeQ.png" group-title="Sport",beIN Sports HD 2
+https://2d01.janjua.pw:8088/adfree/bn21222222222/playlist.m3u8?id=97528&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
 
 #EXTINF:-1 tvg-id="beIN Sports 2 ARB" tvg-name="beIN Sports 2 ARB" tvg-logo="https://i.imgur.com/p3E3XeQ.png" group-title="Sport",beIN Sports HD 2
 https://2210.janjua.pw:8088/adfree/b1111141/playlist.m3u8?id=96533&wowzasessionid=3010282762&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
@@ -24,10 +33,15 @@ https://2209.janjua.pw:8088/adfree/bbnh222222/playlist.m3u8?id=96465&wowzasessio
 
 
 #EXTINF:-1 tvg-id="beIN Sports 3 ARB" tvg-name="beIN Sports 3 ARB" tvg-logo="https://i.imgur.com/7Eht07u.png" group-title="Sport",beIN Sports HD 3
-https://2d02.janjua.pw:8088/adfree/BVB32333/playlist.m3u8?id=95449&wowzasessionid=577462950&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
+https://2d02.janjua.pw:8088/adfree/NN333333/playlist.m3u8?id=97411&wowzasessionid=47106118&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
+
+#EXTINF:-1 tvg-id="beIN Sports 3 ARB" tvg-name="beIN Sports 3 ARB" tvg-logo="https://i.imgur.com/7Eht07u.png" group-title="Sport",beIN Sports HD 3
+https://2210.janjua.pw:8088/adfree/NN333333/playlist.m3u8?id=97411&wowzasessionid=525205430&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
+
 
 #EXTINF:-1 tvg-id="beIN Sports 4 ARB" tvg-name="beIN Sports 4 ARB" tvg-logo="https://i.imgur.com/7Eht07u.png" group-title="Sport",beIN Sports HD 4
-https://2209.janjua.pw:8088/adfree/bn44144444/playlist.m3u8?id=96745&wowzasessionid=167446053&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
+https://2d04.janjua.pw:8088/adfree/N4444444/playlist.m3u8?id=97415&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
+
 
 #EXTINF:-1 tvg-id="beIN Sports 5 ARB" tvg-name="beIN Sports 5 ARB" tvg-logo="https://i.imgur.com/7Eht07u.png" group-title="Sport",beIN Sports HD 5
 https://2210.janjua.pw:8088/adfree/BN5555555555/playlist.m3u8?id=96270&wowzasessionid=680751270&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
@@ -58,8 +72,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
 #EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
-#EXTINF:-1 tvg-id="beIN Sports 4 ARB" tvg-name="beIN Sports 4 ARB" tvg-logo="https://i.imgur.com/Tidh5Qw.png" group-title="Sport",beIN Sports 4
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+
 
 #EXTINF:-1 tvg-id="beIN Sports ARB" tvg-name="beIN Sports ARB" tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Sport",beIN Sports News
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
@@ -82,7 +95,7 @@ https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
 https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport ARB" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/09/ktv3.jpg" group-title="Sport",KTV Sport
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sport",Oman Sport
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=oman_sport
@@ -90,9 +103,6 @@ http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=oman_sport
 http://38.96.148.35:1935/live/omantv02/playlist.m3u8
 #EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sport",Oman Sport
 http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Chelsea tv" tvg-name="Chelsea tv" tvg-logo="https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_96,q_auto,w_96,z_1.0/v1/logos/rgb-mar18.png" group-title="Sport",Chelsea tv
-https://2d02.janjua.pw:8088/adfree/bnewsssss/playlist.m3u8?id=93477&wowzasessionid=3808751572&pk=10beef6d6271d69b1bdcd1cdc184496c9d44dd4f92ba9b70a503d28a13278c22
 
 #EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
