@@ -680,3 +680,7 @@ http://www.rayanfm.com:9998/;
 http://188.165.53.101:8024/;
 #EXTINF:-1 tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" group-title="General",Sahel TV
 #http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria ARB" tvg-name="Syria ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nCGsD74.jpg" group-title="General",Syrian TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/d1lQowQ.png" group-title="General",Suroyo TV
+https://www.karwan1.de/karwan.tv/suroyo-tv/chunks.m3u8?nimblesessionid=389707&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIwIDY6MTg6MDggQU0maGFzaF92YWx1ZT1OdXJodVYrN1hqUVBMUHNDcmhGZ1N3PT0mdmFsaWRtaW51dGVzPTIw
