@@ -672,9 +672,9 @@ http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/04.m3u8
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/appleman460.m3u8
 #EXTINF:-1 tvg-id="Zitouna" tvg-name="Zitouna TV" tvg-logo="https://i.imgur.com/04t3ENC.png" group-title="Education",Al Jazeera Documentary
 https://www.youtube.com/watch?v=UncIeTnLK8o&feature=youtu.be
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8AoFB55.jpg" group-title="News",Syrian Alyaum TV
+#EXTINF:-1 tvg-id="Syrian Alyum" tvg-name=Syrian Alyum ARB" tvg-logo="https://i.imgur.com/8AoFB55.jpg" group-title="News",Syrian Alyaum TV
 http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8
-#EXTINF:-1 radio="true" tvg-id="Sham FM" tvg-name="Sham FM" tvg-logo="http://sham.fm/assets/v3/images/logo.png" group-title="Radio",Sham FM
+#EXTINF:-1 tvg-id="Sham FM" tvg-name="Sham FM" tvg-logo="http://sham.fm/assets/v3/images/logo.png" group-title="Radio",Sham FM
 http://5.39.218.151:8400/stream
 #EXTINF:-1 radio="true" tvg-name="Al Rayan FM" tvg-logo="https://i.imgur.com/3X9tTs5.jpg" group-title="Radio",Al Rayan FM
 http://www.rayanfm.com:9998/;
