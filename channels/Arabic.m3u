@@ -72,9 +72,9 @@ http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.alrasheedmedia.com/wp-content/themes/alrasheedv2/images/logos/logo-small.png" group-title="General",Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 #EXTINF:-1 tvg-id="Al Rayan ARB" tvg-name="Al Rayan ARB" tvg-logo="https://i.imgur.com/uQMoKXn.png" group-title="General",Al Rayyan
-https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist_1080p.m3u8
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyan_chunks.m3u8
 #EXTINF:-1 tvg-id="Al Rayyan 2 ARB" tvg-name="Al Rayyan 2 ARB" tvg-logo="https://i.imgur.com/uQMoKXn.png" group-title="General",Al Rayyan 2
-https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist_1080p.m3u8
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeem_chunks.m3u8
 #EXTINF:-1 tvg-id="Al Sharqiya ARB" tvg-name="Al Sharqiya ARB" tvg-logo="http://alsharqiyatv.info/tv.jpg" group-title="General",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 group-title="General",Al Tanasuh TV
@@ -251,13 +251,14 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/amxhyoP.png" group-title="General",Noursat Jordan
 
 #EXTINF:-1 tvg-id="Oman TV ARB" tvg-name="Oman TV ARB" tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="General",Oman TV
-http://38.96.148.35:1935/live/omantv01/playlist.m3u8
-#EXTINF:-1 tvg-id="Oman TV ARB" tvg-name="Oman TV ARB" tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="General",Oman TV
-http://38.96.148.35:1935/live/omantv01/chunklist.m3u8
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="General",Oman TV Sport
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/images/cultural.png" group-title="General",Oman TV Cultural
-http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/images/oman_live.png" group-title="General",Oman TV Mubashir
-http://38.96.148.35:1935/live/omantv03/chunklist.m3u8
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+
 #EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="General",OTV
 http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
 #EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="General",OTV
@@ -285,7 +286,8 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="General",Sama TV
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="General",Sama TV
+https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_360p_chunks.m3u8
 #EXTINF:-1 tvg-id="Sharjah TV ARB" tvg-name="Sharjah TV ARB" tvg-logo="https://i.imgur.com/FAp0RtO.png" group-title="General",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharqiya from Kalba ARB" tvg-name="Sharqiya from Kalba ARB" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="General",Sharqiya from Kalba TV
@@ -303,7 +305,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 #EXTINF:-1 tvg-id="Star World ARB" tvg-name="Star World ARB" tvg-logo="https://i.imgur.com/9c316dr.png" group-title="General",Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PrNVVOu.png" group-title="General",Suboro TV
-https://streaming.viewsat.eu/viewsatstream12/viewsatstream12.smil/chunklist_w1785562590_b900000.m3u8
+https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/chunklist_w64769589_b900000.m3u8
 #EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria" tvg-logo="http://www.ortas.online/images/Ortas/ortas_header.png" group-title="General",Syria Channel
 https://prod-fastly-eu-central-1.video.periscope.tv/Transcoding/v1/hls/OkC9UoIFBlCFuaSIz3z8TiqfW6MpSdAtEpPPpRPZqjCGKdol4bLneuHPZhss-R6hMp5QO2vuXsdUvZX8QqyRaw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_16881690857058128642.m3u8?
 #EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria Satellite Channel ARB" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="General",Syria Channel
@@ -469,8 +471,6 @@ https://live2.alalamtv.net/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-name="Orient TV" tvg-logo="https://i.imgur.com/nqSHGyr.jpg" group-title="News",Orient TV
-https://stream-04.dc3.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf6-xBoUprymI3zWSF0xllMVE)/dm/3/x7sjy0p/d/live-0.m3u8
-#EXTINF:-1 tvg-name="Orient TV" tvg-logo="https://i.imgur.com/nqSHGyr.jpg" group-title="News",Orient TV
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
 http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
@@ -481,9 +481,10 @@ http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8abziX.png" group-title="News",Libya Al Hadath
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="News",El Ekhbaria Syria
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+http://82.137.248.16:1935/Snews/stream31122019/chunklist_w1253914264.m3u8
+###http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MfnY0sD.png" group-title="News",Halab Today TV
-https://live.vimeocdn.com/1583079075-0x9a30a2929fc2ef2fdf6637e452071051115c4bf7/48d56d5a-3f4a-4309-a2bf-bd93a7279d4b/chunklist_b728000.m3u8
+http://streaming.tootvs.com:1935/8010/8010/chunklist_w1880066132.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/ZcCWCbm.jpg" group-title="News",Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1 tvg-id="CBC Drama ARB" tvg-name="CBC Drama ARB" tvg-logo="https://i.imgur.com/VW5Qk23.png" group-title="Movies",CBC Drama
@@ -670,8 +671,6 @@ http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/04.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Documentary" tvg-name="Al Jazeera Documentary" tvg-logo="https://i.imgur.com/ESlr13q.jpg" group-title="Education",Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/appleman460.m3u8
-#EXTINF:-1 tvg-id="Zitouna" tvg-name="Zitouna TV" tvg-logo="https://i.imgur.com/04t3ENC.png" group-title="Education",Al Jazeera Documentary
-https://www.youtube.com/watch?v=UncIeTnLK8o&feature=youtu.be
 #EXTINF:-1 tvg-id="Syrian Alyum" tvg-name=Syrian Alyum ARB" tvg-logo="https://i.imgur.com/8AoFB55.jpg" group-title="News",Syrian Alyaum TV
 http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8
 #EXTINF:-1 tvg-id="Sham FM" tvg-name="Sham FM" tvg-logo="http://sham.fm/assets/v3/images/logo.png" group-title="Radio",Sham FM
@@ -684,5 +683,8 @@ http://188.165.53.101:8024/;
 #http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Syria ARB" tvg-name="Syria ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nCGsD74.jpg" group-title="General",Syrian TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/d1lQowQ.png" group-title="General",Suroyo TV
-https://www.karwan1.de/karwan.tv/suroyo-tv/chunks.m3u8?nimblesessionid=389707&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIwIDY6MTg6MDggQU0maGFzaF92YWx1ZT1OdXJodVYrN1hqUVBMUHNDcmhGZ1N3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qeWaLeX.jpg" group-title="Movies",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?of=freedaily
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qeWaLeX.jpg" group-title="general",Star world
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8?of=freedaily
+
