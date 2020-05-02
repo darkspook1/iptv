@@ -187,8 +187,10 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_360p/
 https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8
 #EXTINF: -1 tvg-logo="http://kw.heytv.org/wp-content/uploads/2019/03/ktv_arabe.jpg" group-title="General", KTV Ethraa
 https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_360p/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/GBDfc8p.jpg" group-title="General", Lana TV Plus
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YTlANYh.png" group-title="General", Lana TV Plus
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GBDfc8p.jpg" group-title="General", Lana TV
+http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
 #EXTINF: -1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-logo="https://i.imgur.com/4Y09rze.jpg" group-title="General", LBC International
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/03.m3u8
 #EXTINF: -1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-logo="https://i.imgur.com/4Y09rze.jpg" group-title="General", LBC International
