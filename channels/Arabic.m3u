@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
+#EXTM3U x-tvg-url="http://195.154.221.171/epg/epg.xml.gz"
 #EXTINF: -1 tvg-id="2M Maroc ARB" tvg-name="ME-2M-Maroc" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="General", 2M Monde
 http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 #EXTINF: -1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="General", 2M Monde
