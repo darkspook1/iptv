@@ -1907,6 +1907,6 @@ https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" tvg-name="Zagros"  group-title="General",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-name="هلا تي في"  group-title="Unsorted",هلا تي في
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-name="Hala TV"  group-title="Unsorted",Hala TV
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 
