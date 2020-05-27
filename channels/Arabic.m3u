@@ -1,16 +1,13 @@
 #EXTM3U
 
-
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Bg52GiG.png" tvg-name="Sama TV"  group-title="Unsorted",Sama TV
-https://svs.itworkscdn.net/samatvlive/sama.smil/playlist.m3u8
+http://82.137.248.16:1935/Drama/stream31122019/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="Syria Drama ARB" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-name="Syria Drama"  group-title="Movies",Syria Drama
+http://82.137.248.16:1935/Drama/stream31122019/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/GBDfc8p.jpg" tvg-name="Lana TV"  group-title="General",Lana TV
-http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/GBDfc8p.jpg" tvg-name="Lana TV"  group-title="General",Lana TV
-http://livecdnh1.tvanywhere.ae/hls/lanatv/03.m3u8
-
+https://svs.itworkscdn.net/lanatvlive/lana/chunks_dvr.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Bg52GiG.png" tvg-name="Sama TV"  group-title="General",Sama TV
 https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_chunks.m3u8
@@ -25,25 +22,7 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8
 https://prod-fastly-eu-central-1.video.periscope.tv/Transcoding/v1/hls/OkC9UoIFBlCFuaSIz3z8TiqfW6MpSdAtEpPPpRPZqjCGKdol4bLneuHPZhss-R6hMp5QO2vuXsdUvZX8QqyRaw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_16881690857058128642.m3u8?
 
 #EXTINF:-1, tvg-id="Syria Satellite Channel ARB" tvg-logo="https://i.imgur.com/ajsrKzA.png" tvg-name="Syria Channel"  group-title="General",Syria Channel
-http://95.170.215.109/hls/m3u8/SYRIA-Backup.m3u8
-
-#EXTINF:-1, tvg-id="Syria Satellite Channel ARB" tvg-logo="https://i.imgur.com/ajsrKzA.png" tvg-name="Syria Channel"  group-title="General",Syria Channel
 http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Syria Drama ARB" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-name="Syria Drama"  group-title="Movies",Syria Drama
-http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Syria Drama ARB" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-name="Syria Drama"  group-title="Movies",Syria Drama
-http://livecdnh2.tvanywhere.ae/hls/syria_drama/index.m3u8
-
-#EXTINF:-1, tvg-id="Syria Drama ARB" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-name="Syria Drama"  group-title="Movies",Syria Drama
-http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
-
-#EXTINF:-1, tvg-id="Syria Drama ARB" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-name="Syria Drama"  group-title="Movies",Syria Drama
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
-
-#EXTINF:-1, tvg-id="Syria Drama ARB" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-name="Syria Drama"  group-title="Movies",Syria Drama
-http://82.137.248.16:1935/Drama/stream31122019/chunklist_w625374097.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/rKTE8Qw.png" tvg-name="Syria TV"  group-title="General",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
@@ -156,6 +135,9 @@ http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 
 #EXTINF:-1, tvg-id="Rotana Khalijia ARB" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" tvg-name="Rotana Khalijia HD"  group-title="Music",Rotana Khalijia HD
 https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Rotana Khalijia ARB" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" tvg-name="Rotana Khalijia HD"  group-title="Music",Rotana Khalijia HD
+http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8?nimblesessionid=331192210
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" tvg-name="Rotana Kids"  group-title="Kids",Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
@@ -555,19 +537,6 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
 #EXTINF:-1, tvg-id="Al Jazeera Mubasher" tvg-logo="https://i.imgur.com/r8tSY9Q.png" tvg-name="Al Jazeera Mubasher"  group-title="News",Al Jazeera Mubasher
 http://mubasher.streaming.aljazeera.net/apple/aljazeera/mubasher/appleman460.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/m5cc4g5.png" tvg-name="22 TV"  group-title="Unsorted",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
