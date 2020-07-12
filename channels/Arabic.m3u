@@ -82,22 +82,16 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_720p/chunks.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" tvg-name="Nabaa TV"  group-title="General",Nabaa TV
-http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" tvg-name="Nabaa TV"  group-title="General",Nabaa TV
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 
 #EXTINF:-1, tvg-id="OTV Lebanon ARB" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" tvg-name="OTV"  group-title="General",OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Tele Liban ARB" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" tvg-name="Tele Liban"  group-title="General",Tele Liban
-Unsorted
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/L8abziX.png" tvg-name="Al Hadath"  group-title="General",Al Hadath
 https://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/N9dO8AE.png" tvg-name="Libya 218"  group-title="General",Libya 218
-https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Libya Satellite Channel"  group-title="General",Libya Satellite Channel
 http://82.212.74.2:8000/live/hls/7321.m3u8
