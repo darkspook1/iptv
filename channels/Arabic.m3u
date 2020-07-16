@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="",3eesh Al Aan TV
-https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="22 TV"  group-title="General",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
 
@@ -10,7 +7,7 @@ http://82.212.74.99:8000/live/hls/8117.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="3eesh Al Aan TV"  group-title="General",3eesh Al Aan TV
-http://52.31.121.58/playlist.m3u8
+https://eja.tv/?b7fae7dde42ba110308da7d837c33740.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="7 Stars"  group-title="General",7 Stars
 http://82.212.74.3:8000/live/hls/7506.m3u8
@@ -40,7 +37,7 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Alamiya"  group-title="General",Al Alamiya
-http://82.212.74.100:8000/live/hls/8950.m3u8
+https://5e085b8c1882e.streamlock.net/live/alayyam_h/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Alamiya 2"  group-title="General",Al Alamiya 2
 http://82.212.74.98:8000/live/7815.m3u8
@@ -666,7 +663,8 @@ https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m
 https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="Samaa TV ARB" tvg-logo="https://i.imgur.com/PAP6jnu.jpg" tvg-name="Sama TV"  group-title="Drama",Sama TV
-http://192.34.153.37:7777/SamaTV_HD/SamaTV_HD.m3u8?user=sgls540839&session=975c9804735080aef315ce8df9077e820df0c4f96fae2f1d7c0f8772c4f2024f&hlsid=HTTP_ID_1&starttime=20200504T202449.771384
+http://192.34.153.37:7777/SamaTV_HD.m3u8?user=sgls540839&session=0bcd9746e0788ea95d0702cff0b41cc10df0c4f96fae2f1d7c0f8772c4f2024f
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Syria Drama"  group-title="Drama",Syria Drama
 http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
@@ -862,7 +860,13 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="LBC ARB" tvg-logo="https://i.imgur.com/YPR45yP.png" tvg-name="LBC"  group-title="General",LBC
+https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_360p/chunks.m3u8
+
+#EXTINF:-1, tvg-id="LBC ARB" tvg-logo="https://i.imgur.com/YPR45yP.png" tvg-name="LBC"  group-title="General",LBC
 https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
+
+
+https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_360p/chunks.m3u8?nimblesessionid=79310306
 
 #EXTINF:-1, tvg-id="MTV Lebanon ARB" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" tvg-name="MTV"  group-title="General",MTV
 http://51.178.43.32:25461/live/tdn/44119572164/10146728.m3u8
